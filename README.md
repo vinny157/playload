@@ -1,1 +1,208 @@
-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
+{
+    "Version": "5.9",
+    "Message": "QUALQUER ERRO ENTRA EM CONTATO",
+    "Servers":[{
+        "Name": "🇧🇷BR 01",
+        "SSHHost": "20.206.83.231",
+        "SSHPort": "443",
+        "DropBear": "8080",
+        "SSLPort": "443",
+        "ProxyPort": "80"
+    },
+{
+        "Name": "🇧🇷BRASIL 02",
+        "SSHHost": "20.206.83.231",
+        "SSHPort": "443",
+        "DropBear": "8080",
+        "SSLPort": "443",
+        "ProxyPort": "80"
+    }],
+"Tweaks": [{
+"Name": "VIVO ",
+"SSL": false,
+"Direct": false,
+"Payload": "GET / [protocol][crlf]Host: brasil.shadowsockbr.xyz[crlf][auth]api/v4/zones/efc399b4440ecd1435efbebbcc0e172a/dns_records[crlf]GET [crlf][ua]KEY: d880d3cef76abf6e261cf1f9c6dfb4db[crlf]Upgrade: undefined[crlf][crlf]",
+"CustomProxy": true,
+"ProxyHost": "104.16.57.6",
+"ProxyPort": "80"
+},
+{
+"Name": "CLARO 2021",
+"SSL": false,
+"Direct": false,
+"Payload": "GET / [protocol][crlf]Host: brasil.shadowsockbr.xyz[crlf][auth]api/v4/zones/efc399b4440ecd1435efbebbcc0e172a/dns_records[crlf]GET [crlf][ua]KEY: d880d3cef76abf6e261cf1f9c6dfb4db[crlf]Upgrade: undefined[crlf][crlf]",
+"CustomProxy": true,
+"ProxyHost": "104.16.86.20",
+"ProxyPort": "80"
+},
+{
+"Name": "TIM e VIVO 2021",
+"SSL": false,
+"Direct": false,
+"Payload": "PUT / [protocol][crlf]Host: brasil.shadowsockbr.xyz[crlf][auth]api/v4/zones/efc399b4440ecd1435efbebbcc0e172a/dns_records[crlf]GET [crlf][ua]KEY: d880d3cef76abf6e261cf1f9c6dfb4db[crlf]Upgrade: undefined[crlf][crlf]",
+"CustomProxy": true,
+"ProxyHost": "104.16.18.94",
+"ProxyPort": "80"
+},
+{
+"Name": "Oi 2021",
+"Direct": false,
+"SSL": false,
+"Payload": "PUT / [protocol][crlf]Host: brasil.shadowsockbr.xyz[crlf][auth]api/v4/zones/efc399b4440ecd1435efbebbcc0e172a/dns_records[crlf]GET [crlf][ua]KEY: d880d3cef76abf6e261cf1f9c6dfb4db[crlf]Upgrade: undefined[crlf][crlf]",
+"CustomProxy": true,
+"ProxyHost": "104.16.56.6",
+"ProxyPort": "80"
+},
+{
+"Name": "oof",
+"Direct": false,
+"SSL": false,
+"Payload": "[split][lf] HTTP/1.0 [lf]Host: [rotate=YouTube.com;google.com;mail.google.com;yandex.ru;mtalk.google.com;bb.com.br;www.foxsoports.com.br;www.clarovideo.com;get.adobe.com;imgur.com;www.yahoo.com;btsports.com;salesrock.virginmobile.mx;www.atresplayer.com;www.aol.com;www.joox.com;wap.yy.com;net.supercell.com;www.disney.com;www.bbc.com;www.godaddy.com;adclick.g.doubleclick.net;www.buzzfeed.com;www.alipay.com;www.monster.com;www.playstation.net;mail.hotmail.com;ads.mopub.com;m.weibo.cn;www.flickr.com;d1n212ccp6ldpw.cloudfront.net;www.ebay.com;api-oyon.viu.com;download.cdn.viber.com;www.palcomp3.com;www.line.me;www.xvideos.com;www.nba.com;www.samsung.com;vivo.com;vivo.com.br;www.sina.com;www.cnn.com;www.youtube.com;www.bradesco.com.br;www.spotify.com;www.netflix.com;www.apple.com;www.skype.com;www.mercadolivre.com.br;ideas.mercadolibre.com;www.tidal.com;wn.qq.com;www.akamaized.net;www.iflix.com.br;www.myspace.com;www.opera.com;www.xbox.com;www.amazon.com;www.soundcloud.com;opera-mini.net;www.deezer.com;www.olx.com.br;www.wechat.com;googleads.g.;itunes.com;www.terra.com;mail.google.com;www.pinterest.com;www.blackberry.com;www.operamini.com;www.uber.com;www.wikipedia.com;www.utorrent.com;www.msn.com;www.googlesyndication.com;m.mobilelegends.com;www.badoo.com;www.tripadvisor.com.br;www.kik.com;www.movistar.co;www.cabify.com;www.bing.com;www.crashlytics.com;www.hooq.tv;cdn.ml.youngjoygame.com;www.reddit.com;imgur.com;adash.man.aliyuncs.com;www.sky.com.br;mtalk.google.com;twitter.com;t.co;www.google.com;ff.garena.com;googleads.g.doubleclick.net;e.crashlytics.com ;get.adobe.com;www.movistar.com;m.waze.com][crlf][crlf][",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+},
+{
+"Name": "off",
+"SSL": false,
+"Direct": false,
+"Payload": "HTTP/1.0 [crlf]Host: portal.vivosync.com.br[crlf]CONNECT HTTP/1.0[crlf][crlf]|[crlf]",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+},
+{
+"Name": "off",
+"SSL": false,
+"Direct": false,
+"Payload": "HTTP/1.0 [crlf]Host: portal.vivosync.com.br[crlf]CONNECT HTTP/1.0[crlf][crlf]|[crlf]",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+},
+{
+"Name": "Claro planos ssl",
+"SSL": true,
+"Direct": false,
+"Payload": "www.waze.com",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+},
+{
+"Name": "Claro Prezao 1.5mbs",
+"SSL": true,
+"Direct": false,
+"Payload": "media.whatsapp.net",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+},
+{
+"Name": "Claro Planos Http",
+"SSL": false,
+"Direct": false,
+"Payload": "GET [host_port] HTTP/1.1[crlf]Host: m.waze.com[crlf]",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+},
+{
+"Name": "Tim-1 31/07/2020",
+"SSL": false,
+"Direct": false,
+"Payload": "UNLOCK HTTP/1.0\nOPTIONS http://www.myspace.com.br HTTP/1.1\nHost: http://www.google.com.br\n",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+},
+{
+"Name": "Tim-2 31/07/2020",
+"SSL": false,
+"Direct": false,
+"Payload": "ACL HTTP/1.1 [crlf]Host: plus.google.com[crlf]",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+},
+{
+"Name": "Tim 3G 4G",
+"SSL": false,
+"Direct": false,
+"Payload": "PATCH / HTTP/1.1[crlf]Host: opera.com.br/pagead2.googlesyndication.com #[lf]Referer: datasaver.googleapis.com [crlf] [crlf]",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+},
+{
+"Name": "Tim Somente 4G",
+"SSL": false,
+"Direct": false,
+"Payload": "ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf]",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+}]
+}
+}]
+}
+t": "",
+"ProxyPort": ""
+},
+{
+"Name": "Claro Prezao 1.5mbs",
+"SSL": true,
+"Direct": false,
+"Payload": "media.whatsapp.net",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+},
+{
+"Name": "Claro Planos Http",
+"SSL": false,
+"Direct": false,
+"Payload": "GET [host_port] HTTP/1.1[crlf]Host: m.waze.com[crlf]",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+},
+{
+"Name": "Tim-1 31/07/2020",
+"SSL": false,
+"Direct": false,
+"Payload": "UNLOCK HTTP/1.0\nOPTIONS http://www.myspace.com.br HTTP/1.1\nHost: http://www.google.com.br\n",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+},
+{
+"Name": "Tim-2 31/07/2020",
+"SSL": false,
+"Direct": false,
+"Payload": "ACL HTTP/1.1 [crlf]Host: plus.google.com[crlf]",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+},
+{
+"Name": "Tim 3G 4G",
+"SSL": false,
+"Direct": false,
+"Payload": "PATCH / HTTP/1.1[crlf]Host: opera.com.br/pagead2.googlesyndication.com #[lf]Referer: datasaver.googleapis.com [crlf] [crlf]",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+},
+{
+"Name": "Tim Somente 4G",
+"SSL": false,
+"Direct": false,
+"Payload": "ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf]",
+"CustomProxy": false,
+"ProxyHost": "",
+"ProxyPort": ""
+}]
+}
+}]
+}
